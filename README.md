@@ -7,7 +7,7 @@ This is a basic Web app which displays the analysis of entered text.
 . Docker
 . VSCode
 
-# Build Instruction
+## Build Instruction
 - Clone the repo <br>
   ```sh
      git clone https://github.com/anirudh-hegde/sirius.git 
