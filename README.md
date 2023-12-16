@@ -3,9 +3,9 @@
 This is a basic Web app which displays the analysis of entered text.
 
 ## Tech Stacks
-. Reacts-Js, Html and Css
-. Docker
-. VSCode
+* Reacts-Js, Html and Css
+* Docker
+* VS Code
 
 ## Build Instruction
 - Clone the repo <br>
@@ -24,6 +24,7 @@ This is a basic Web app which displays the analysis of entered text.
   ```sh
   docker run -p 8090:3000 textutils
   ```
+  
 ## Conclusion
 Feel free to explore and alter source code.
 Happy Hacking 🚀
