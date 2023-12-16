@@ -32,7 +32,39 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+button {
+  border-radius: 12px;
+  background-color: chartreuse;
+  /* display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 40vw; */
+}
+
+/* .center-text {
+  text-align: center;
+}
+ */
+
+
+
+body {
+  background: linear-gradient(-100deg, #96fbc4 0%, #f9f586 100%);
+  background-size: cover;
+  font-family: 'Your Preferred Font', sans-serif;
+  /* background-color: #8a2be2; */
+}
+
+/* .bg-body-tertiary {
+  background-color: #ff0000; /* Replace with your desired color */
+/* }  */
+/* bac */
+.redNavbar{
+  background-color: red;
 }
