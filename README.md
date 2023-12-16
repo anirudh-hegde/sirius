@@ -20,7 +20,10 @@ This is a basic Web app which displays the analysis of entered text.
   ```sh
   docker build -t textutils  .
   ```
-- Use the container and activate the API <br>
+- Use the container and activate the website
   ```sh
   docker run -p 8090:3000 textutils
   ```
+## Conclusion
+Feel free to explore and alter source code.
+Happy Hacking 🚀
