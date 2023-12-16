@@ -27,4 +27,5 @@ This is a basic Web app which displays the analysis of entered text.
   
 ## Conclusion
 Feel free to explore and alter source code.
+
 Happy Hacking 🚀
