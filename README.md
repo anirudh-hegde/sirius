@@ -10,7 +10,7 @@ This is a basic Web app which displays the analysis of entered text.
 ## Build Instruction
 - Clone the repo <br>
   ```sh
-     git clone https://github.com/anirudh-hegde/sirius.git 
+  git clone https://github.com/anirudh-hegde/sirius.git 
   ```
 - Move to Repository Directory <br>
   ```sh 
