@@ -16,7 +16,7 @@ export default function Navbar(props) {
                     </ul>
 
                     <li className="nav-item">
-                        <a href='https://github.com/anirudh-hegde/hearts2sync' style={{ position: 'absolute', top: '6px', right: '10px' }}>
+                        <a href='https://github.com/anirudh-hegde/sirius' style={{ position: 'absolute', top: '6px', right: '10px' }}>
                             <img src={process.env.PUBLIC_URL + '/github.jpeg'} style={{ height: '40px', width: '40px', borderRadius: '90px' }} alt='GitHub'></img>
                         </a>
                     </li>
